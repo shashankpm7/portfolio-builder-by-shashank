@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
         </a>
       </div>
       <div className="text-sm text-gray-600 dark:text-gray-400">
-        Made with <Heart className="inline-block w-4 h-4 text-red-500 mx-1" fill="currentColor" /> by Shashank
+        Made with <Heart className="inline-block w-4 h-4 text-red-500 mx-1" fill="currentColor" /> by Shashank Moharir
       </div>
     </div>
   );
